@@ -1,0 +1,17 @@
+@inproceedings{li2007quantifying,
+  title={Quantifying the cost of context switch},
+  author={Li, Chuanpeng and Ding, Chen and Shen, Kai},
+  booktitle={Proceedings of the 2007 workshop on Experimental computer science},
+  pages={2},
+  year={2007},
+  organization={ACM}
+}
+
+@inproceedings{tsafrir2007context,
+  title={The context-switch overhead inflicted by hardware interrupts (and the enigma of do-nothing loops)},
+  author={Tsafrir, Dan},
+  booktitle={Proceedings of the 2007 workshop on Experimental computer science},
+  pages={4},
+  year={2007},
+  organization={ACM}
+}
